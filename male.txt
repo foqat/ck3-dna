@@ -1,9 +1,9 @@
-ruler_designer_833893676={
+ruler_designer_3692056737={
 	type=male
 	id=0
-	genes={ 		hair_color={ 20 93 62 250 }
- 		skin_color={ 236 6 93 127 }
- 		eye_color={ 245 1 49 242 }
+	genes={ 		hair_color={ 5 250 62 250 }
+ 		skin_color={ 247 10 93 127 }
+ 		eye_color={ 106 27 49 242 }
  		gene_chin_forward={ "chin_forward_neg" 118 "chin_forward_neg" 114 }
  		gene_chin_height={ "chin_height_neg" 141 "chin_height_neg" 140 }
  		gene_chin_width={ "chin_width_neg" 119 "chin_width_neg" 114 }
@@ -31,7 +31,7 @@ ruler_designer_833893676={
  		gene_mouth_forward={ "mouth_forward_neg" 115 "mouth_forward_neg" 115 }
  		gene_mouth_height={ "mouth_height_pos" 140 "mouth_height_pos" 140 }
  		gene_mouth_width={ "mouth_width_neg" 114 "mouth_width_neg" 114 }
- 		gene_mouth_upper_lip_size={ "mouth_upper_lip_size_pos" 140 "mouth_upper_lip_size_pos" 140 }
+ 		gene_mouth_upper_lip_size={ "mouth_upper_lip_size_pos" 121 "mouth_upper_lip_size_pos" 140 }
  		gene_mouth_lower_lip_size={ "mouth_lower_lip_size_neg" 155 "mouth_lower_lip_size_neg" 127 }
  		gene_mouth_open={ "mouth_open_pos" 140 "mouth_open_pos" 140 }
  		gene_neck_length={ "neck_length_pos" 146 "neck_length_pos" 140 }
@@ -57,17 +57,17 @@ ruler_designer_833893676={
  		gene_bs_mouth_lower_lip_def={ "mouth_lower_lip_def_pos" 47 "mouth_lower_lip_def_pos" 47 }
  		gene_bs_mouth_lower_lip_full={ "mouth_lower_lip_full_pos" 62 "mouth_lower_lip_full_pos" 62 }
  		gene_bs_mouth_lower_lip_pad={ "mouth_lower_lip_pad_neg" 193 "mouth_lower_lip_pad_neg" 193 }
- 		gene_bs_mouth_lower_lip_width={ "mouth_lower_lip_width_pos" 33 "mouth_lower_lip_width_pos" 33 }
+ 		gene_bs_mouth_lower_lip_width={ "mouth_lower_lip_width_neg" 59 "mouth_lower_lip_width_pos" 33 }
  		gene_bs_mouth_philtrum_def={ "mouth_philtrum_def_pos" 137 "mouth_philtrum_def_pos" 40 }
  		gene_bs_mouth_philtrum_shape={ "mouth_philtrum_shape_pos" 61 "mouth_philtrum_shape_pos" 40 }
  		gene_bs_mouth_philtrum_width={ "mouth_philtrum_width_neg" 33 "mouth_philtrum_width_pos" 4 }
  		gene_bs_mouth_upper_lip_def={ "mouth_upper_lip_def_pos" 28 "mouth_upper_lip_def_pos" 28 }
  		gene_bs_mouth_upper_lip_full={ "mouth_upper_lip_full_pos" 170 "mouth_upper_lip_full_pos" 170 }
  		gene_bs_mouth_upper_lip_profile={ "mouth_upper_lip_profile_neg" 30 "mouth_upper_lip_profile_neg" 30 }
- 		gene_bs_mouth_upper_lip_width={ "mouth_upper_lip_width_pos" 80 "mouth_upper_lip_width_pos" 80 }
- 		gene_bs_nose_forward={ "nose_forward_pos" 53 "nose_forward_neg" 5 }
- 		gene_bs_nose_height={ "nose_height_neg" 9 "nose_height_pos" 103 }
- 		gene_bs_nose_length={ "nose_length_neg" 37 "nose_length_neg" 21 }
+ 		gene_bs_mouth_upper_lip_width={ "mouth_upper_lip_width_pos" 23 "mouth_upper_lip_width_pos" 80 }
+ 		gene_bs_nose_forward={ "nose_forward_pos" 45 "nose_forward_neg" 5 }
+ 		gene_bs_nose_height={ "nose_height_neg" 53 "nose_height_pos" 103 }
+ 		gene_bs_nose_length={ "nose_length_pos" 81 "nose_length_neg" 21 }
  		gene_bs_nose_nostril_height={ "nose_nostril_height_neg" 59 "nose_nostril_height_pos" 49 }
  		gene_bs_nose_nostril_width={ "nose_nostril_width_neg" 13 "nose_nostril_width_pos" 91 }
  		gene_bs_nose_profile={ "nose_profile_pos" 24 "nose_profile_pos" 24 }
@@ -92,7 +92,7 @@ ruler_designer_833893676={
  		expression_forehead_wrinkles={ "forehead_wrinkles_01" 164 "forehead_wrinkles_01" 164 }
  		expression_other={ "cheek_wrinkles_both_01" 0 "cheek_wrinkles_both_01" 0 }
  		complexion={ "complexion_beauty_1" 255 "complexion_2" 229 }
- 		gene_height={ "normal_height" 226 "normal_height" 119 }
+ 		gene_height={ "normal_height" 255 "normal_height" 119 }
  		gene_bs_body_type={ "body_fat_head_fat_low" 125 "body_fat_head_fat_medium" 140 }
  		gene_bs_body_shape={ "body_shape_average_clothed" 255 "body_shape_average" 15 }
  		gene_bs_bust={ "bust_clothes" 255 "bust_default" 17 }
@@ -105,14 +105,14 @@ ruler_designer_833893676={
  		eye_accessory={ "normal_eyes" 83 "normal_eyes" 83 }
  		teeth_accessory={ "normal_teeth" 0 "normal_teeth" 0 }
  		eyelashes_accessory={ "normal_eyelashes" 141 "normal_eyelashes" 141 }
- 		hairstyles={ "indian_hairstyles_straight" 127 "all_hairstyles" 0 }
- 		beards={ "western_beards_straight" 220 "no_beard" 0 }
+ 		hairstyles={ "northern_hairstyles_straight" 95 "all_hairstyles" 0 }
+ 		beards={ "no_beard" 255 "no_beard" 0 }
  		clothes={ "western_bedchamber" 95 "most_clothes" 0 }
  }
 	override={
 		portrait_modifier_overrides={
-			custom_hair=male_hair_indian_01
-			custom_beards=male_beard_western_10
+			custom_hair=male_hair_northern_02
+			custom_beards=male_empty
 		}
 	}
 
