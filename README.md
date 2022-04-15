@@ -1,2 +1,3 @@
-# ck3-male-dna
-Male DNA for Crusader Kings 3
+# CK3 (Crusader Kings 3) DNA
+
+Collection of my favorite male and female DNA in CK3.
